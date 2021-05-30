@@ -14,7 +14,8 @@
 ## * Important! My rocks, paper scissors app is on my desktop and is in a folder called "Martin.Rocks.Paper.Excercise" 
 
 
-## The location of the program on my computer is ->   /Users/martinhsu/desktop/Martin.Rocks.Paper.Excercise
+## The location of the program on my computer is:   
+## /Users/martinhsu/desktop/Martin.Rocks.Paper.Excercise
 
 
 When I open terminal to get to the correct folder holding the program I type commands in this order to navigate to the correct folder:
