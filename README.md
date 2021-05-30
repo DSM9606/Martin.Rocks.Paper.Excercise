@@ -17,7 +17,7 @@
 ## The location of the program on my computer is ->   /Users/martinhsu/desktop/Martin.Rocks.Paper.Excercise
 
 
-When I oppen up terminal to get to that folder I type commands in this order to navigate to the correct folder:
+When I open terminal to get to the correct folder holding the program I type commands in this order to navigate to the correct folder:
 
 #### Step 1: Type "PWD" + ENTER -> users/martinhsu
 #### Step 2: Type "CD Desktop" + ENTER 
