@@ -23,7 +23,7 @@ print(" ")
 print(" ")
 print(" ")
 
-user_choice = input("Please choose one of 'rock', 'paper', 'scissors' : ")
+user_choice = input(PLAYER_NAME, "Please choose one of 'rock', 'paper', 'scissors' : ")
 
 print(" ")
 print(" ")
