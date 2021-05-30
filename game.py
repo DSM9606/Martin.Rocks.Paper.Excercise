@@ -1,12 +1,17 @@
 # game.py
 import random
 
+import os
+
+PLAYER_NAME = os.getenv("PLAYER_NAME")
+
+
 print(" ")
 print(" ")
 print(" ")
 print(" ")
 
-print(" WELCOME TO Rock, Paper, Scissors, Shoot!")
+print(PLAYER_NAME, " WELCOME TO Rock, Paper, Scissors, Shoot!")
 
 print(" ")
 print(" ")
