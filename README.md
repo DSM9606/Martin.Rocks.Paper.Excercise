@@ -9,7 +9,13 @@ Instructions Write the appropriate setup instructions, and the exact conda, pip,
 
 Navigate to the Rocks, Paper, Scissors App in the terminal by first pressing "pwd enter" to find your present working directory and then "ls -al" to find all of the folders in your current directory also "cd .." to go to the previous enclosing folder if you went into thw wrong folder*
 
-My rocks, paper scissors app is on my desktop and is in a folder called "Martin.Rocks.Paper.Excercise" so when I oppen up terminal to get to that folder I typed in the order:
+My rocks, paper scissors app is on my desktop and is in a folder called "Martin.Rocks.Paper.Excercise" 
+
+
+##The location of the program on my computer is ->   /Users/martinhsu/desktop/Martin.Rocks.Paper.Excercise
+
+
+When I oppen up terminal to get to that folder I type commands in this order to navigate to the correct folder:
 
 ### Step 1: Type "PWD" + ENTER -> users/martinhsu
 ### Step 2: Type "CD Desktop" + ENTER 
