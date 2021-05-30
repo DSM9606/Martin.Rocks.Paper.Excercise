@@ -1,6 +1,6 @@
 # Martin.Rocks.Paper.Excercise
 
-Instructions Write the appropriate setup instructions, and the exact conda, pip, and python commands needed to run the program from scratch
+##### Instructions: write the appropriate setup instructions, and the exact conda, pip, and python commands needed to run the program from scratch
 
 
 ## Part I: Navigate to the correct folder in Terminal:
