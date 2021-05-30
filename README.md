@@ -22,6 +22,7 @@ When I open terminal to get to the correct folder holding the program I type com
 #### Step 2: Type "cd desktop" + ENTER 
 #### Step 3: Type "cd Martin.Rocks.Paper.Excercise" + ENTER
 #### Step 4: Type "pwd " + ENTER to make sure you have opened the folder Martin.Rocks.Paper.Excercise on the desktop
+#### NOTE: After completing these steps on my computer the directory was <i> (base) martinhsu@Martins-Air Martin.Rocks.Paper.Excercise </i>
 
 ## Part II: Set up a new virtual environment
 #### Step 1: Type "conda create -n my-game-env python=3.8" + ENTER in the terminal application
