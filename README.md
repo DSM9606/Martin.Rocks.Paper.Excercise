@@ -1,1 +1,21 @@
 # Martin.Rocks.Paper.Excercise
+
+Write the appropriate setup instructions, and the exact conda, pip, and python commands needed to run the program from scratch
+
+On a mac open the Terminal App
+Navigate to the Rocks, Paper, Scissors App in the terminal by first pressing "pwd enter" to find your present working directory and then "ls -al" to find all of the folders in your current directory also "cd .." to go to the previous enclosing folder
+
+Part I: Navigate to the correct folder in Terminal:
+
+My rocks, paper scissors app is on my desktop and is in a folder called "Martin.Rocks.Paper.Excercise" so when i oppen up terminal to get to that folder i typed in the order:
+Step 1: Type "PWD" + ENTER -> users/martinhsu
+Step 2: Type "CD Desktop" + ENTER 
+Step 3: Type "cd Martin.Rocks.Paper.Excercise " + ENTER
+Step 4: Type "PWD " + ENTER to make sure you have opened the folder Martin.Rocks.Paper.Excercise on the desktop
+
+Part II: Set up a new virtual environment
+Step 1: Type "Conda Create -n my-game-env python=3.8" + ENTER in the terminal application
+Step 2: Type "conda activate my-game-env" + ENTER 
+
+Part III: Make sure your packages are installed
+Step 1: Type "Pip List" + ENTER into terminal
