@@ -73,7 +73,7 @@ print(" ")
 print(" ")
 print(" ")
 
-print("THIS IS THE END OF OUR GAME!! PLEASE PLAY AGAIN!!")
+print("THIS IS THE END OF OUR GAME!! THANK YOU FOR PLAYING, PLEASE PLAY AGAIN!!")
 
 print(" ")
 print(" ")
