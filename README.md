@@ -28,7 +28,8 @@ When I open terminal to get to the correct folder holding the program I type com
 #### Step 2: Type "conda activate my-game-env" + ENTER 
 
 ## Part III: Make sure your packages are installed
-#### Step 1: Type "Pip List" + ENTER into terminal
+#### Step 1: Type "pip install -r requirements.txt" + ENTER into terminal
+#### Step 2: Type "Pip List" + ENTER into terminal
 
 ## Part IV: Install the 'Random Module'
 #### Step 1: Type "import random" + ENTER into terminal
