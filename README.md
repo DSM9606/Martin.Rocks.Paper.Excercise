@@ -9,7 +9,7 @@
 
 * I am using a Mac and the Terminal Application to run this program 
 
-**HINT: To navigate to the Rocks, Paper, Scissors App in the terminal by first typing "pwd enter" into terminal to find your present working directory and then "ls -al" to find all of the folders in your current directory also "cd .." to go to the previous enclosing folder if you went into thw wrong folder**
+**HINT: Navigate to the Rocks, Paper, Scissors App in the terminal by first typing "pwd enter" into terminal to find your present working directory and then "ls -al" to find all of the folders in your current directory also "cd .." to go to the previous enclosing folder if you went into thw wrong folder**
 
 > ## Important! My rocks, paper scissors app is on my desktop and is in a folder called: <i> "Martin.Rocks.Paper.Excercise" </i>
 
