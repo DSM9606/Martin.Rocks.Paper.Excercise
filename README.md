@@ -8,6 +8,7 @@ Navigate to the Rocks, Paper, Scissors App in the terminal by first pressing "pw
 Part I: Navigate to the correct folder in Terminal:
 
 My rocks, paper scissors app is on my desktop and is in a folder called "Martin.Rocks.Paper.Excercise" so when i oppen up terminal to get to that folder i typed in the order:
+
 Step 1: Type "PWD" + ENTER -> users/martinhsu
 Step 2: Type "CD Desktop" + ENTER 
 Step 3: Type "cd Martin.Rocks.Paper.Excercise " + ENTER
@@ -19,3 +20,10 @@ Step 2: Type "conda activate my-game-env" + ENTER
 
 Part III: Make sure your packages are installed
 Step 1: Type "Pip List" + ENTER into terminal
+
+Part IV: Install the 'Random Module'
+Step 1: Type "import random" + ENTER into terminal
+
+Part V: Run the Program and Play the game
+Step 1: Type "python game.py" + ENTER into terminal
+Step 2: Follow the instructions to play the computer in rocks, paper, scissors and remember your inputs are case sensitive!

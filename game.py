@@ -28,9 +28,9 @@ print(" ")
 print(" ")
 
 if (user_choice == "rock") or (user_choice == "paper") or (user_choice == "scissors"):
-    print("Valid Choice My Friend. KEEP GOING!")
+    print("It looks like your choice,",user_choice,", is a valid choice!! SO LETS KEEP ON GOING!!")
 else:
-     print("INVALID PLAY AGAIN") 
+     print("INVALID CHOICE PLEASE PLAY AGAIN AND REMEMBER THE INPUTS ARE CASE SENSITIVE!!") 
      exit()
 
 print(" ")
@@ -73,7 +73,7 @@ print(" ")
 print(" ")
 print(" ")
 
-print("THIS IS THE END OF OUR GAME. PLEASE PLAY AGAIN")
+print("THIS IS THE END OF OUR GAME!! PLEASE PLAY AGAIN!!")
 
 print(" ")
 print(" ")
