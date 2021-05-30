@@ -18,21 +18,26 @@
 
 When I open terminal to get to the correct folder holding the program I type commands in this order to navigate to the correct folder:
 
-#### Step 1: Type "PWD" + ENTER -> users/martinhsu
-#### Step 2: Type "CD Desktop" + ENTER 
+#### Step 1: Type "pwd" + ENTER -> users/martinhsu
+#### Step 2: Type "cd desktop" + ENTER 
 #### Step 3: Type "cd Martin.Rocks.Paper.Excercise " + ENTER
-#### Step 4: Type "PWD " + ENTER to make sure you have opened the folder Martin.Rocks.Paper.Excercise on the desktop
+#### Step 4: Type "pwd " + ENTER to make sure you have opened the folder Martin.Rocks.Paper.Excercise on the desktop
 
 ## Part II: Set up a new virtual environment
-#### Step 1: Type "Conda Create -n my-game-env python=3.8" + ENTER in the terminal application
+#### Step 1: Type "conda create -n my-game-env python=3.8" + ENTER in the terminal application
 #### Step 2: Type "conda activate my-game-env" + ENTER 
 
 ## Part III: Make sure your packages are installed
 #### Step 1: Type "pip install -r requirements.txt" + ENTER into terminal
-#### Step 2: Type "Pip List" + ENTER into terminal
+#### Step 2: Type "pip list" + ENTER into terminal
 
-## Part IV: Install the 'Random Module'
-#### Step 1: Type "import random" + ENTER into terminal
+
+## Part IV: Set your Player's Name
+#### Step 1: Navigate to the Martin.Rocks.Paper.Excercise folder in Mac's finder or wherever the file is on your computer
+#### Step 2: Type " ctrl + shift + . " to show hidden files like .env on mac
+#### Step 3: Open the .env file and change the player name within the quatations to your desired player name. For example if i wanted to make my name Jasmine the text would read PLAYER_NAME="Jasmine"
+#### Step 4: Save and close the document
+
 
 ## Part V: Run the Program and Play the game
 #### Step 1: Type "python game.py" + ENTER into terminal
